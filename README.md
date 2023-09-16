@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm @chiranjeevimn</h1>
+<h1 align="center">👋 Hi there, I'm @chiranjeevimn</h1><br/>
 - 🔭 I’m interested in Computer science.
 - 🌱 I’m currently learning Master of computer application in BMSIT.
 - 👯 I’m looking to collaborate on Nothing now.
