@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi there, I'm @chiranjeevimn</h1><br/>
-- 🔭 I’m interested in Computer science.
-- 🌱 I’m currently learning Master of computer application in BMSIT.
-- 👯 I’m looking to collaborate on Nothing now.
-- 📫 How to reach me: chiranjeevichiru724@gmail.com
+<p>- 🔭 I’m interested in Computer science.</p>
+<p>- 🌱 I’m currently learning Master of computer application in BMSIT.</p>
+<p>- 👯 I’m looking to collaborate on Nothing now.</p>
+<p>- 📫 How to reach me: chiranjeevichiru724@gmail.com</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiranjeevimn&label=Profile%20views&color=0e75b6&style=flat" alt="chiranjeevimn" /> </p>
 
