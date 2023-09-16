@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate on Nothing now.
 - 📫 How to reach me: chiranjeevichiru724@gmail.com
 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiranjeevimn&show_icons=true&locale=en&layout=compact" alt="chiranjeevimn" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiranjeevimn&show_icons=true&locale=en" alt="chiranjeevimn" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjeevimn&" alt="chiranjeevimn" /></p>
