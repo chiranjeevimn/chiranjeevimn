@@ -6,8 +6,6 @@
 - 📫 How to reach me: chiranjeevichiru724@gmail.com
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiranjeevimn&show_icons=true&locale=en&layout=compact" alt="chiranjeevimn" /></p>
-
-![chiranjeevi GitHub stats](https://github-readme-stats.vercel.app/api?username=chiranjeevimn&show_icons=true&theme=radical)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiranjeevimn&show_icons=true&locale=en" alt="chiranjeevimn" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjeevimn&" alt="chiranjeevimn" /></p>
 
