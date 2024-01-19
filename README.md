@@ -8,6 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p><a href="https://www.linkedin.com/in/chiranjeevi-m-n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chiranjeevi-m-n/" height="30" width="40" /></a>
+<p><a href="[https://www.linkedin.com/in/chiranjeevi-m-n/](https://github.com/chiranjeevimn)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.omgubuntu.co.uk/wp-content/uploads/2018/06/github-logo.jpeg)" alt="[https://www.linkedin.com/in/chiranjeevi-m-n/](https://github.com/chiranjeevimn)" height="30" width="40" /></a>
   
 <h3 align="left">Languages and Tools:</h3>
 
