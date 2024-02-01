@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm **chiranjeevimn**</h1><br/>
+<h1 align="center">👋 Hi there, I'm <b></b>chiranjeevimn<b></b></h1><br/>
 <p>- 🔭 I’m interested in Computer science.</p>
 <p>- 🌱 I’m currently learning Master of computer application in BMSIT.</p>
 <p>- 👯 I’m looking to collaborate on Nothing now.</p>
